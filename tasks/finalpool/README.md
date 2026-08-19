@@ -14,13 +14,11 @@ Rules for tasks under `tasks/finalpool`:
 Implemented tasks in this pool (checked against the newest commit of every
 developer branch that added new tasks):
 
-| Task | Implementor | Branch (newest task-adding commit) | Commit |
-| --- | --- | --- | --- |
-| robots-handler | gyy | gyy | 9612fff |
-| tag-manager | gyy | gyy | 9612fff |
-| media-organizer | haoze | haoze | e0072cf |
-| social-connector | junxian_dev | junxian_dev | 96bbc11 |
-| client-portal | lueyang-dev | lueyang-dev | c524b53 |
-| crm-system | lueyang-dev | lueyang-dev | c524b53 |
-| lead-tracker | lueyang-dev | lueyang-dev | c524b53 |
-| health-monitor | xiaochen_dev | xiaochen_dev | 20bfc73 |
+- robots-handler (implementor: gyy, branch gyy, commit 9612fff)
+- tag-manager (implementor: gyy, branch gyy, commit 9612fff)
+- media-organizer (implementor: haoze, branch haoze, commit e0072cf)
+- social-connector (implementor: junxian_dev, branch junxian_dev, commit 96bbc11)
+- client-portal (implementor: lueyang-dev, branch lueyang-dev, commit c524b53)
+- crm-system (implementor: lueyang-dev, branch lueyang-dev, commit c524b53)
+- lead-tracker (implementor: lueyang-dev, branch lueyang-dev, commit c524b53)
+- health-monitor (implementor: xiaochen_dev, branch xiaochen_dev, commit 20bfc73)
