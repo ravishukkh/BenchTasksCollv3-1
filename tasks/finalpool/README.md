@@ -32,7 +32,6 @@ developer branch that added new tasks):
 - lead-tracker (implementor: lueyang-dev, branch lueyang-dev, commit c524b53)
 - survey-builder (implementor: lv, branch lv, commit 0be3288)
 - analytics-dashboard (implementor: lv, branch lv, commit 0be3288)
-- insights-engine (implementor: lv, branch lv, commit 0be3288)
 - web-crawler (implementor: ruige, branch ruige, commit a6f3fba)
 - log-analyzer (implementor: ruige, branch ruige, commit a6f3fba)
 - cache-optimizer (implementor: wenshuo-dev, branch wenshuo-dev, commit d11080e)
@@ -40,16 +39,14 @@ developer branch that added new tasks):
 - status-checker (implementor: xiaochen_dev, branch xiaochen_dev, commit 20bfc73)
 - health-monitor (implementor: xiaochen_dev, branch xiaochen_dev, commit 20bfc73)
 - sync-service (implementor: yuxuan-dev, branch yuxuan-dev, commit e82c829)
-- audit-logger (implementor: yuzhen-dev, branch yuzhen-dev, commit c68265d)
-- resource-monitor (implementor: yuzhen-dev, branch yuzhen-dev, commit c68265d)
 - certificate-manager (implementor: zhaochen, branch zhaochen, commit b5f9cc4)
 - storage-manager (implementor: zhaochen, branch zhaochen, commit b5f9cc4)
 
-Tasks that are still `implementing` (deliberately NOT copied into the pool,
-because `docs/task.md` / `docs/agent_system_prompt.md` contain Chinese text or
-required files are missing):
+Tasks that are still `implementing` and were deliberately NOT copied into the
+pool, because `docs/task.md` / `docs/agent_system_prompt.md` contain Chinese
+text or required files are missing:
 
-- currency-converter (junxian_dev)
-- insights-engine (lv)
-- audit-logger (yuzhen-dev)
-- resource-monitor (yuzhen-dev)
+- currency-converter (junxian_dev) - docs/task.md contains a 中文描述 section
+- insights-engine (lv) - docs/agent_system_prompt.md contains a 系统提示 section
+- audit-logger (yuzhen-dev) - docs/agent_system_prompt.md contains a 系统提示 section
+- resource-monitor (yuzhen-dev) - docs/agent_system_prompt.md contains a 系统提示 section
