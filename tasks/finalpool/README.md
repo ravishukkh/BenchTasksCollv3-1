@@ -14,11 +14,42 @@ Rules for tasks under `tasks/finalpool`:
 Implemented tasks in this pool (checked against the newest commit of every
 developer branch that added new tasks):
 
-- robots-handler (implementor: gyy, branch gyy, commit 9612fff)
+- loyalty-program (implementor: fan-dev, branch fan-dev, commit 8b90f34)
+- discount-calculator (implementor: fan-dev, branch fan-dev, commit 8b90f34)
 - tag-manager (implementor: gyy, branch gyy, commit 9612fff)
+- sitemap-generator (implementor: gyy, branch gyy, commit 9612fff)
+- robots-handler (implementor: gyy, branch gyy, commit 9612fff)
 - media-organizer (implementor: haoze, branch haoze, commit e0072cf)
+- streaming-service (implementor: haoze, branch haoze, commit e0072cf)
+- customer-feedback-processor (implementor: jl_dev, branch jl_dev, commit 4e2b63f)
+- inventory-management (implementor: jl_dev, branch jl_dev, commit 4e2b63f)
+- customer-portal (implementor: junteng_dev, branch junteng_dev, commit 4ab0c54)
+- help-desk (implementor: junteng_dev, branch junteng_dev, commit 4ab0c54)
 - social-connector (implementor: junxian_dev, branch junxian_dev, commit 96bbc11)
-- client-portal (implementor: lueyang-dev, branch lueyang-dev, commit c524b53)
+- territory-manager (implementor: lueyang-dev, branch lueyang-dev, commit bf8b9a1)
+- client-portal (implementor: lueyang-dev, branch lueyang-dev, commit bf8b9a1)
 - crm-system (implementor: lueyang-dev, branch lueyang-dev, commit c524b53)
 - lead-tracker (implementor: lueyang-dev, branch lueyang-dev, commit c524b53)
+- survey-builder (implementor: lv, branch lv, commit 0be3288)
+- analytics-dashboard (implementor: lv, branch lv, commit 0be3288)
+- insights-engine (implementor: lv, branch lv, commit 0be3288)
+- web-crawler (implementor: ruige, branch ruige, commit a6f3fba)
+- log-analyzer (implementor: ruige, branch ruige, commit a6f3fba)
+- cache-optimizer (implementor: wenshuo-dev, branch wenshuo-dev, commit d11080e)
+- scheduler (implementor: wenshuo-dev, branch wenshuo-dev, commit d11080e)
+- status-checker (implementor: xiaochen_dev, branch xiaochen_dev, commit 20bfc73)
 - health-monitor (implementor: xiaochen_dev, branch xiaochen_dev, commit 20bfc73)
+- sync-service (implementor: yuxuan-dev, branch yuxuan-dev, commit e82c829)
+- audit-logger (implementor: yuzhen-dev, branch yuzhen-dev, commit c68265d)
+- resource-monitor (implementor: yuzhen-dev, branch yuzhen-dev, commit c68265d)
+- certificate-manager (implementor: zhaochen, branch zhaochen, commit b5f9cc4)
+- storage-manager (implementor: zhaochen, branch zhaochen, commit b5f9cc4)
+
+Tasks that are still `implementing` (deliberately NOT copied into the pool,
+because `docs/task.md` / `docs/agent_system_prompt.md` contain Chinese text or
+required files are missing):
+
+- currency-converter (junxian_dev)
+- insights-engine (lv)
+- audit-logger (yuzhen-dev)
+- resource-monitor (yuzhen-dev)
