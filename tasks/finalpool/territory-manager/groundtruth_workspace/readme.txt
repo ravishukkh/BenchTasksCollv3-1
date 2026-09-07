@@ -1,1 +1,1 @@
-Groundtruth data for territory-manager
+the `groundtruth_workspace` folder is optional, the evaluation can be all done in evaluation/main.py if you want

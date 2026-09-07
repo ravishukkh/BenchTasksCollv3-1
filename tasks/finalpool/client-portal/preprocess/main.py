@@ -1,2 +1,1 @@
-# Preprocessing script
-print('Preprocessing completed')
+# This script is optional
