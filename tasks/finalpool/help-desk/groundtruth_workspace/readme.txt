@@ -1,1 +1,1 @@
-Groundtruth data for help-desk
+the `groundtruth_workspace` folder is optional, the evaluation can be all done in evaluation/main.py if you want
