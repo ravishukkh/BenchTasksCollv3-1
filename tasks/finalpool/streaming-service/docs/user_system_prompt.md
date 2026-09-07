@@ -1,1 +1,1 @@
-This is an user system prompt for streaming-service
+This file is optional, but if it is non-empty, is has to be all English

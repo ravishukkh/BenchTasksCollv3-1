@@ -1,1 +1,1 @@
-Groundtruth data for media-organizer
+the `groundtruth_workspace` folder is optional, the evaluation can be all done in evaluation/main.py if you want
